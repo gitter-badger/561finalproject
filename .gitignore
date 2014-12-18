@@ -1,0 +1,7 @@
+*.pyc
+result*
+thoughtstream
+plot_results
+RNAsubopt
+*.ps
+contra/
